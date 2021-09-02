@@ -1,3 +1,4 @@
+# 这是一个视频扣图软件
 # Omnimatte in PyTorch
 
 This repository contains a re-implementation of the code for the CVPR 2021 paper "[Omnimatte: Associating Objects and Their Effects in Video](https://omnimatte.github.io/)."
